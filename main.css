@@ -1,0 +1,20 @@
+body { 
+    font-size: 35px;
+    min-font-size: 35px;
+    max-font-size: 50px;
+}
+
+div {
+      text-align: center;
+    }
+
+h1, div, span, { color: lightskyblue; font-family: ‘Raleway’,sans-serif; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; }
+
+h2 { color: lightskyblue; font-family: ‘Raleway’,sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
+
+p { color: lightskyblue; font-family: ‘Raleway’,sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; }
+
+a { color: lightskyblue; text-decoration: underline; }
+
+a:hover { color: #1c1c1c; text-decoration: underline; }
+summary { color: lightskyblue; font-family: ‘Raleway’,sans-serif; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-transform: uppercase; }
